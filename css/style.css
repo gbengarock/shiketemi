@@ -15,10 +15,10 @@ overflow-x:hidden;
 .container {
 	position: absolute;
 	top: 30%;
-	left: 30%;
+	left: 20%;
 	color: #000926;
 	text-align: center;
-	font-size: 450%;
+	font-size: 400%;
 	font-family: 'Ms Madi', cursive;
 }
 .container h1 {
